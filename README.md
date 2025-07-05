@@ -38,7 +38,7 @@ This project uses the **M5 Forecasting - Accuracy** dataset from Kaggle.
 ### 1. Random Forest – Actual vs Predicted
 
 ![Random Forest Chart](<img width="1205" alt="Random Forest – Actual vs Predicted
-" src="https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d" />)
+" src="[https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d](https://github.com/Anmolpandey23/Smart-Inventory-Demand-Forecasting-with-AI/blob/main/Random%20Forest.png)" />)
 
 ---
 
