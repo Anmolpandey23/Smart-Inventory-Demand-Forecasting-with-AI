@@ -50,7 +50,7 @@ This project uses the **M5 Forecasting - Accuracy** dataset from Kaggle.
 
 ### 3. LSTM – 7-Day Forecast
 
-![Forecast Chart](<img width="1205" alt="LSTM – 7-Day Forecast" src="[https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d](https://github.com/Anmolpandey23/Smart-Inventory-Demand-Forecasting-with-AI/blob/f04ae8b422fadecec1cd15c539094f4ccbc79ec1/LSTM%20Next%207%20day%20Forecast.png)" />)
+<img width="1205" alt="LSTM – 7-Day Forecast" src="https://github.com/Anmolpandey23/Smart-Inventory-Demand-Forecasting-with-AI/blob/main/LSTM%20Next%207%20day%20Forecast.png?raw=true" />
 
 ---
 
