@@ -37,19 +37,20 @@ This project uses the **M5 Forecasting - Accuracy** dataset from Kaggle.
 
 ### 1. Random Forest – Actual vs Predicted
 
-![Random Forest Chart](https://your-image-link.com/chart1.png)
+![Random Forest Chart](<img width="1205" alt="Random Forest – Actual vs Predicted
+" src="https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d" />)
 
 ---
 
 ### 2. LSTM – Actual vs Predicted
 
-![LSTM Chart](https://your-image-link.com/chart2.png)
+![LSTM Chart](<img width="1205" alt="LSTM – Actual vs Predicted" src="https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d" />)
 
 ---
 
 ### 3. LSTM – 7-Day Forecast
 
-![Forecast Chart](https://your-image-link.com/chart3.png)
+![Forecast Chart](<img width="1205" alt="LSTM – 7-Day Forecast" src="https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d" />)
 
 ---
 
