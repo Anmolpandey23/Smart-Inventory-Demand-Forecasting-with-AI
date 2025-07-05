@@ -19,3 +19,13 @@ This project builds a forecasting system for retail sales using Machine Learning
 - Python, Pandas, NumPy
 - TensorFlow / Keras, scikit-learn, Random Forest
 - Matplotlib, Seaborn
+
+## 📥 Download Dataset
+This project uses the **M5 Forecasting - Accuracy** dataset from Kaggle.
+
+👉 [Kaggle Dataset Link](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
+
+- After downloading, place the following files in the `data/` directory:
+  - `sales_train_validation.csv`
+  - `calendar.csv`
+  - `sell_prices.csv`
