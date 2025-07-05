@@ -29,3 +29,56 @@ This project uses the **M5 Forecasting - Accuracy** dataset from Kaggle.
   - `sales_train_validation.csv`
   - `calendar.csv`
   - `sell_prices.csv`
+
+
+---
+
+## 📊 Visuals
+
+### 1. Random Forest – Actual vs Predicted
+
+![Random Forest Chart](https://your-image-link.com/chart1.png)
+
+---
+
+### 2. LSTM – Actual vs Predicted
+
+![LSTM Chart](https://your-image-link.com/chart2.png)
+
+---
+
+### 3. LSTM – 7-Day Forecast
+
+![Forecast Chart](https://your-image-link.com/chart3.png)
+
+---
+
+## ⚙️ How It Works
+
+### 📌 Data Preparation
+- Converts wide format to long using `melt`
+- Merges calendar and pricing info
+- Creates lag & rolling mean features
+
+### 🧠 Model Training
+- `RandomForestRegressor` on feature-engineered data
+- `LSTM` with 30-day sequence sliding window
+
+### 📦 Inventory Alert
+- User inputs current stock
+- System checks demand > inventory → ⚠️ alert
+
+---
+
+## 🚀 Running the App
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/Smart-Inventory-Demand-Forecasting-with-AI.git
+cd Smart-Inventory-Demand-Forecasting-with-AI
+
+# 2. Install requirements
+pip install -r requirements.txt
+
+# 3. Run the app
+streamlit run app.py
