@@ -83,3 +83,10 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+```
+
+___
+
+## 📘 License
+
+This project is licensed under the [MIT License](https://github.com/Anmolpandey23/Smart-Inventory-Demand-Forecasting-with-AI/blob/169006428a6b099cb8abd9e8a8eb8bedb39087e5/LICENSE).
